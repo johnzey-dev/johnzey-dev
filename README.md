@@ -1,5 +1,5 @@
 # Hi there, I'm João António 👋
-Here is a small [TFT stats analyzer](https://github.com/johnzey-dev/tft-stats-api) vibe coded that shows your current rank and your last 5 games.
+Here is a small [TFT stats analyzer](https://github.com/johnzey-dev/tft-stats-api) vibe coded that shows my current rank and last 5 games.
 
 <p align="center">
   <b>🎮 My TFT Stats</b><br>
