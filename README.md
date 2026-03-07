@@ -3,7 +3,7 @@ Here is a small [TFT stats analyzer](https://github.com/johnzey-dev/tft-stats-ap
 
 <p align="center">
   <b>🎮 My TFT Stats</b><br>
-  <img src="https://seminar-nextel-timely-accept.trycloudflare.com/tft-stats/euw1/LeeSIUU/SIUU/png?raw=true" width="400">
+  <img src="https://varying-editing-along-hostels.trycloudflare.com/tft-stats/euw1/LeeSIUU/SIUU/png?raw=true" width="400">
 </p>
 
 Welcome to my GitHub profile! I’m a developer passionate about building cool projects and learning new technologies. 🚀
