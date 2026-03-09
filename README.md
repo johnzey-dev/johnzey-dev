@@ -3,6 +3,6 @@ Here is a small [TFT stats analyzer](https://github.com/johnzey-dev/tft-stats-ap
 
 <p align="center">
   <b>🎮 My TFT Stats</b><br>
-  <img src="https://cowboy-tons-journal-rolling.trycloudflare.com/tft-stats/euw1/LeeSIUU/SIUU/png" width="400">
+  <img src="https://ruth-motors-nails-lawyers.trycloudflare.com/tft-stats/euw1/LeeSIUU/SIUU/png" width="400">
 </p>
 
