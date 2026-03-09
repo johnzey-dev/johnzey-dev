@@ -1,4 +1,4 @@
-# Hi there, I'm João António 👋
+# Hi there, I'm João 👋
 Here is a small [TFT stats analyzer](https://github.com/johnzey-dev/tft-stats-api) vibe coded that shows my current rank and last 5 games.
 
 <p align="center">
@@ -6,4 +6,3 @@ Here is a small [TFT stats analyzer](https://github.com/johnzey-dev/tft-stats-ap
   <img src="https://cowboy-tons-journal-rolling.trycloudflare.com/tft-stats/euw1/LeeSIUU/SIUU/png" width="400">
 </p>
 
-Welcome to my GitHub profile! I’m a developer passionate about building cool projects and learning new technologies. 🚀
